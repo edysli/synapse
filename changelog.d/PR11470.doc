@@ -1,0 +1,3 @@
+Remove mention of OIDC certification from Dex
+Dex [isn't](https://github.com/dexidp/dex/issues/42) [yet](https://github.com/dexidp/dex/issues/262) a certified OpenID Provider implementation. It's not present on the [list maintained by the OpenID Foundation](https://openid.net/certification/).
+Contributed by Etienne Dysli Metref.
